@@ -1,0 +1,22 @@
+C:\Users\Admin\Desktop\StringCalculator\StringCalculator\bin\Debug\net8.0\StringCalculator.deps.json
+C:\Users\Admin\Desktop\StringCalculator\StringCalculator\bin\Debug\net8.0\StringCalculator.dll
+C:\Users\Admin\Desktop\StringCalculator\StringCalculator\bin\Debug\net8.0\StringCalculator.pdb
+C:\Users\Admin\Desktop\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.AssemblyInfo.cs
+C:\Users\Admin\Desktop\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.dll
+C:\Users\Admin\Desktop\StringCalculator\StringCalculator\obj\Debug\net8.0\refint\StringCalculator.dll
+C:\Users\Admin\Desktop\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.pdb
+C:\Users\Admin\Desktop\StringCalculator\StringCalculator\obj\Debug\net8.0\ref\StringCalculator.dll
+C:\Users\Admin\Desktop\Politechnika Warszawska\Semester 6\Software Engineering 2\Workshop_TDD\StringCalculator\StringCalculator\bin\Debug\net8.0\StringCalculator.deps.json
+C:\Users\Admin\Desktop\Politechnika Warszawska\Semester 6\Software Engineering 2\Workshop_TDD\StringCalculator\StringCalculator\bin\Debug\net8.0\StringCalculator.dll
+C:\Users\Admin\Desktop\Politechnika Warszawska\Semester 6\Software Engineering 2\Workshop_TDD\StringCalculator\StringCalculator\bin\Debug\net8.0\StringCalculator.pdb
+C:\Users\Admin\Desktop\Politechnika Warszawska\Semester 6\Software Engineering 2\Workshop_TDD\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Politechnika Warszawska\Semester 6\Software Engineering 2\Workshop_TDD\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Politechnika Warszawska\Semester 6\Software Engineering 2\Workshop_TDD\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Politechnika Warszawska\Semester 6\Software Engineering 2\Workshop_TDD\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Politechnika Warszawska\Semester 6\Software Engineering 2\Workshop_TDD\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.dll
+C:\Users\Admin\Desktop\Politechnika Warszawska\Semester 6\Software Engineering 2\Workshop_TDD\StringCalculator\StringCalculator\obj\Debug\net8.0\refint\StringCalculator.dll
+C:\Users\Admin\Desktop\Politechnika Warszawska\Semester 6\Software Engineering 2\Workshop_TDD\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.pdb
+C:\Users\Admin\Desktop\Politechnika Warszawska\Semester 6\Software Engineering 2\Workshop_TDD\StringCalculator\StringCalculator\obj\Debug\net8.0\ref\StringCalculator.dll
